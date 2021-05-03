@@ -9,8 +9,9 @@ https://public.tableau.com/profile/fabianobriao#!/vizhome/Quantidadetotaldevenda
 
 ----------
 
-
 https://public.tableau.com/views/Quantidadetotaldevendaspordianoanode2018eporregies_/Quantidadetotaldevendaspordianoanode2018eporregies_?:language=pt&:retry=yes&:display_count=y&:origin=viz_share_link
+
+
 
 <!--a href="https://public.tableau.com/profile/fabiano.dos.santos.bri.o#!/vizhome/Quantidadetotaldevendaspordianoanode2018eporregies_/Quantidadetotaldevendaspo
 rdianoanode2018eporregies_" target = "_blank"-->
