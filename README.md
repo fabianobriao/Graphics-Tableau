@@ -13,10 +13,7 @@ Você pode acessar meu repositório público do Tableau por esse link https://pu
 
 https://public.tableau.com/views/Quantidadetotaldevendaspordianoanode2018eporregies_/Quantidadetotaldevendaspordianoanode2018eporregies_?:language=pt&:display_count=y&:origin=viz_share_link
 
-<div class="container">
-    <img src="https://public.tableau.com/views/Quantidadetotaldevendaspordianoanode2018eporregies_/Quantidadetotaldevendaspordianoanode2018eporregies_?:language=pt&:display_count=y&:origin=viz_share_link" width="320" height="205" />
-</div>
-
+![myimage-alt-tag]("https://public.tableau.com/views/Quantidadetotaldevendaspordianoanode2018eporregies_/Quantidadetotaldevendaspordianoanode2018eporregies_?:language=pt&:display_count=y&:origin=viz_share_link")
 
 de baixo
 
