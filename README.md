@@ -3,6 +3,13 @@ Neste repositório há alguns dos gráficos e dashboards construídos com Tablea
 ## Tableau 
 Você pode acessar meu repositório público do Tableau por esse link https://public.tableau.com/profile/fabianobriao#!/
 
+-------site
+https://public.tableau.com/profile/fabianobriao#!/vizhome/Quantidadetotaldevendaspordianoanode2018eporregies_/Quantidadetotaldevendaspordianoanode2018eporregies_
+
+
+----------
+
+
 https://public.tableau.com/views/Quantidadetotaldevendaspordianoanode2018eporregies_/Quantidadetotaldevendaspordianoanode2018eporregies_?:language=pt&:retry=yes&:display_count=y&:origin=viz_share_link
 
 <!--a href="https://public.tableau.com/profile/fabiano.dos.santos.bri.o#!/vizhome/Quantidadetotaldevendaspordianoanode2018eporregies_/Quantidadetotaldevendaspo
